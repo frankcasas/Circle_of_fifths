@@ -95,11 +95,8 @@ Three sawtooth oscillators slightly detuned (−8, 0, +8 cents) are passed throu
 Just open the HTML file — no build step, no server required.
 
 ```bash
-git clone https://github.com/yourusername/circle-of-fifths.git
-cd circle-of-fifths
-open index.html   # macOS
-# or
-start index.html  # Windows
+git clone https://github.com/frankcasas/Circle_of_fifths.git
+cd circle_of_fifths
 ```
 
 ### Option 2 — Serve locally (recommended for some browsers)
